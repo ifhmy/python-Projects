@@ -22,6 +22,6 @@ while True:
         print("Okay, maybe next time!")
         exit()
     else:
-        print("invalid input, please enter yes or no.")
+        print("invalid input, please enter yes or no only")
         
 
