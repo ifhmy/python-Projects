@@ -4,7 +4,7 @@ import requests
 
 access_key = '4e6c240286e0dc96a587ec9c11647123'
 
-# 
+# Function to fetch data  API
 def fetch_data(url):
     response = requests.get(url)
     return response.json() if response.status_code == 200 else None
