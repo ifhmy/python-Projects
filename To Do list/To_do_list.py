@@ -1,5 +1,5 @@
 
-
+# declare 
 to_do_list = ["paper"]
 
 while(True):
