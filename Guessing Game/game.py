@@ -1,3 +1,4 @@
+#import module
 import random
 
 while True:
